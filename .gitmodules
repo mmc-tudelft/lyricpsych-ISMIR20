@@ -1,0 +1,6 @@
+[submodule "0_feature_extraction"]
+	path = 0_feature_extraction
+	url = git@github.com:mmc-tudelft/lyricpsych.git
+[submodule "2_analysis"]
+	path = 2_analysis
+	url = git@github.com:andrew0302/lyricPsych_analysis.git
