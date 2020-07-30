@@ -1,3 +1,12 @@
-[submodule "0_feature_extraction"]
-	path = 0_feature_extraction
+[submodule "0_mxm_lyrics_crawl"]
+	path = 0_mxm_lyrics_crawl
+	url = https://github.com/eldrin/lyricpsych-mxm-crawler.git
+[submodule "1_feature_extraction"]
+	path = 1_feature_extraction
 	url = git@github.com:mmc-tudelft/lyricpsych.git
+[submodule "2_task_run"]
+	path = 2_task_run
+	url = https://github.com/eldrin/lyricpsych-tasks.git
+[submodule "3_analysis"]
+	path = 3_analysis
+	url = https://github.com/andrew0302/lyricPsych_analysis.git
