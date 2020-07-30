@@ -7,3 +7,6 @@
 [submodule "3_analysis"]
 	path = 3_analysis
 	url = https://github.com/andrew0302/lyricPsych_analysis.git
+[submodule "1_feature_extraction"]
+	path = 1_feature_extraction
+	url = https://github.com/mmc-tudelft/lyricpsych.git
