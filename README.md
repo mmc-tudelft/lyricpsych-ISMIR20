@@ -11,14 +11,14 @@ Psychology research has shown that song lyrics are a rich source of data, yet th
 
 ### Sub Modules: 
 
-This study is conducted largely in the 4 steps: `data collection`, `feature extraction`, `task run simulation`, `analysis`. Each sub-modules that is lined in this parent repository corresponds to each of those steps:
+This study is largely conducted in 4 steps: `data collection`, `feature extraction`, `task run simulation`, `analysis`. Each sub-module that is lined in this parent repository corresponds to each of those steps:
 
 - `0_mxm_lyrics_crawl`: a simple data crawling utility using musiXmatch SDK
 - `1_feature_extraction`: feature extraction package (under development) that is used for this study
 - `2_task_run`: contains a codebase for executing the experimental run mimicking the ML system development for 3 MIR tasks, using the feature extracted from the above step.
 - `3_analysis`: provides the `R` notebook and relevant data that is used for the analysis of the result collected from the step above.
 
-Most of the functionalities are implemented with `python3` and the analysis is done in `R`. The technical details of each steps can be found in each sub-repositories.
+Most of the functionalities are implemented within `python3` and the analysis is conducted in `R`. The technical details of each step can be found in each sub-repositorie.
 
 
 ### Reference and Citation:
