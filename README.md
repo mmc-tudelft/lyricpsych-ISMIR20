@@ -21,6 +21,17 @@ This study is largely conducted in 4 steps: `data collection`, `feature extracti
 Most of the functionalities are implemented within `python3` and the analysis is conducted in `R`. The technical details of each step can be found in each sub-repositorie.
 
 
+### Getting Started:
+
+You can clone the repository and pull the submodules by calling:
+
+```
+$git submodule update --init --recursive
+```
+
+It takes a few minutes to download the git history, it will eventually download about 800Mb of data.
+
+
 ### Reference and Citation:
 
 TBD
