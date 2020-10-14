@@ -1,9 +1,0 @@
-# Byte-compiled / optimized / DLL files
-*.py[cod]
-__pycache__/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# Potentially downloaded data
-*.json

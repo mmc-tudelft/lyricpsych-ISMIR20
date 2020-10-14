@@ -1,6 +1,3 @@
-[submodule "0_task_run"]
-	path = 0_mxm_lyrics_client
-	url = https://github.com/eldrin/lyricpsych-mxm-client
 [submodule "2_task_run"]
 	path = 2_task_run
 	url = https://github.com/eldrin/lyricpsych-tasks.git
