@@ -7,3 +7,6 @@
 [submodule "1_feature_extraction"]
 	path = 1_feature_extraction
 	url = https://github.com/mmc-tudelft/lyricpsych.git
+[submodule "0_mxm_lyrics_client"]
+	path = 0_mxm_lyrics_client
+	url = git@github.com:eldrin/lyricpsych-mxm-client.git
